@@ -27,4 +27,4 @@ This is a clean and responsive todo list application built using vanilla JavaScr
 
 This project is deployed on GitHub Pages:
 
-- [ View the Live App]()
+- [ View the Live App](https://yourdevvince.github.io/se_project_todo-app/)
