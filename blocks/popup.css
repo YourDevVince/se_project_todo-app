@@ -1,5 +1,5 @@
 .popup {
-  font-family: "Inter", Arial, sans-serif;
+  font-family: 'Inter', Arial, sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,7 +38,7 @@
   cursor: pointer;
   width: 20px;
   height: 20px;
-  background: transparent url("../images/close.svg") center no-repeat;
+  background: transparent url('../images/close.svg') center no-repeat;
   position: absolute;
   top: 28px;
   right: 20px;
